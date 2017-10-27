@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/phone/phone",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1296db",
+    "navigationBarTitleText": "电话薄",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#626567",
+    "selectedColor": "#2A8CE5",
+    "backgroundColor": "#FBFBFB",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "",
+        "iconPath": "images/account.png",
+        "selectedIconPath": "images/account_blue.png"
+      },
+      {
+        "pagePath": "pages/phone/phone",
+        "text": "",
+        "iconPath": "images/phone.png",
+        "selectedIconPath": "images/phone_blue.png"
+      }
+    ]
+  }
+}
