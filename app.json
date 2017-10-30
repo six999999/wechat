@@ -25,7 +25,7 @@
       },
       {
         "pagePath": "pages/phone/phone",
-        "text": "",
+        "text": "联系人",
         "iconPath": "images/phone.png",
         "selectedIconPath": "images/phone_blue.png"
       }

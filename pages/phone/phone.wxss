@@ -1,7 +1,7 @@
 .searchLetter{
     position: fixed;
     right: 0;
-    width: 40px;
+    width: 70rpx;
     height: 100%;
     text-align: center;
     justify-content: center;
@@ -14,8 +14,8 @@
     height: 70rpx;
 }
 .touchClass{
-    background-color: rgba(0, 0, 0,0.5);
-    color: #fff;
+    color:black;
+    padding-top:60rpx;
 }
 .showSlectedLetter{
     background-color: rgba(0, 0, 0,0.5);
@@ -44,6 +44,8 @@
     height: 30px;
     padding-left: 10px;
     align-items: center;
+    text-shadow:#1296db 0px 0px 4px;
+    color:white;
 }
 .item_city{
     display: flex;
